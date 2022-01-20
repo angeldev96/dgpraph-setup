@@ -1,4 +1,6 @@
 
+# Steps to install dgraph in our system
+
 1. First thing first, we need to have docker installed in our system, this steps are
 made for an ubuntu based OS (all of it, not only for docker).
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es
